@@ -73,7 +73,6 @@ Welcome to my GitHub portfolio, here you can explore my projects, progress, and 
 
 <img align="left" alt="aws" title="aws" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
 
