@@ -1,101 +1,287 @@
- # 👋 Hi there, I'm Thiago Carvalho
+<div align="center">
 
-**`Back-End Developer`**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Thiago%20Carvalho&fontAlign=50&fontAlignY=40&color=0:0D1117,100:1F6FEB&fontColor=FFFFFF&fontSize=42&desc=Back-End%20Developer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20APIs&descAlignY=58"/>
 
-I'm a 19-year-old developer passionate about technology, problem-solving, and building clean, efficient, and scalable applications.  
-I'm always learning and sharpening my skills, especially in software development, web technologies, and system analysis.
+</div>
 
-Welcome to my GitHub portfolio, here you can explore my projects, progress, and the solutions I'm building throughout my journey in tech.
+<div align="center">
 
-<p align="left">
-    <a href="https://github.com/tayssobrt?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/tayssobrt?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/tayssobrt?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/tayssobrt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+applications;Focused+on+Back-End+Development;Always+learning+new+technologies"/>
 
----
+</div>
 
-### 🤖 Skills
+<br>
 
-**💻 Languages**
+<div align="center">
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<a href="https://github.com/tayssobrt">
+<img src="https://img.shields.io/github/followers/tayssobrt?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/tayssobrt?tab=repositories">
+<img src="https://img.shields.io/github/stars/tayssobrt?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
+</a>
 
-**🟢 Runtime / Backend**
+<img src="https://komarev.com/ghpvc/?username=tayssobrt&style=for-the-badge&color=1F6FEB&labelColor=0D1117"/>
 
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+</div>
 
-<br/><br/>
+<br>
 
-**🗄️ Databases**
+<div align="center">
 
-<img align="left" alt="Azure SQL" title="Azure SQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
-<br/><br/>
+</div>
 
-**🛠️ Tools & DevOps**
+<div align="center">
 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayssobrt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF"/>
 
-<br/><br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF"/>
 
-**🖥️ IDEs & Editors**
+</div>
 
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="DataGrip" title="DataGrip" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"/>
+<br>
 
+<div align="center">
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=tayssobrt&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-### 📚 To Study Next
+</div>
 
-<img align="left" alt="Go" title="Go" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+<br>
 
-<img align="left" alt="aws" title="aws" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
 
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
+</div>
 
-<img align="left" alt="Swift" title="swift" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+<div align="center">
 
-<img align="left" alt="kotlin" title="kotlin" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+# <img src="https://cdn.simpleicons.org/github/58A6FF" width="24"/> Main Stack
 
+<br>
 
+<table>
+<tr>
 
+<td align="center" width="190px">
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java" width="65px"/>
 
----
+### Java
 
-### 📈 Most Used Langs
+`Spring Boot`  
+`JPA & Hibernate`  
+`REST APIs`
 
-![Top Langs](https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=tokyonight)
+</td>
 
----
+<td align="center" width="190px">
 
-## 📈 Commits Activity
+<img src="https://skillicons.dev/icons?i=nodejs" width="65px"/>
 
-![Commit Activity]([https://img.shields.io/github/commit-activity/m/tayssobrt/tayssobrt](https://img.shields.io/github/commit-activity/w/tayssobrt/:repo/:branch
-))
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=tayssobrt&theme=solarized-dark&exclude_days=Thu)](https://git.io/streak-stats)
+### Node.js
+
+`Express`  
+`JWT Authentication`  
+`Backend Services`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" width="65px"/>
+
+### Databases
+
+`MySQL`  
+`PostgreSQL`  
+`SQL Modeling`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=docker,git" width="65px"/>
+
+### DevOps
+
+`Docker`  
+`Git & GitHub`  
+`Postman`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/intellijidea/58A6FF" width="24"/> Development Environment
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="220px">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="65px"/>
+
+### VS Code
+
+`Frontend`  
+`Quick Editing`  
+`Lightweight Workflow`
+
+</td>
+
+<td align="center" width="220px">
+
+<img src="https://skillicons.dev/icons?i=idea" width="65px"/>
+
+### IntelliJ IDEA
+
+`Java Development`  
+`Spring Ecosystem`  
+`Professional Workflow`
+
+</td>
+
+<td align="center" width="220px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="65px"/>
+
+### DataGrip
+
+`Database Management`  
+`SQL Queries`  
+`Data Analysis`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# <img src="https://cdn.simpleicons.org/gitbook/58A6FF" width="24"/> Exploring Next
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=go" width="65px"/>
+
+### Go
+
+`Performance`  
+`Concurrency`  
+`Microservices`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=aws" width="65px"/>
+
+### AWS
+
+`Cloud Computing`  
+`Deployments`  
+`Scalability`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=kotlin" width="65px"/>
+
+### Kotlin
+
+`Android`  
+`Modern JVM`  
+`Clean Code`
+
+</td>
+
+<td align="center" width="190px">
+
+<img src="https://skillicons.dev/icons?i=angular" width="65px"/>
+
+### Angular
+
+`Frontend Apps`  
+`TypeScript`  
+`Modern UI`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/tayssobrt/tayssobrt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <i>"Consistency beats intensity."</i>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F6FEB"/>
+
+</div>
