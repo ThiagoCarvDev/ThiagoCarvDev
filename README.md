@@ -1,12 +1,15 @@
+<!-- COR PRINCIPAL -->
+<!-- E63946 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Thiago%20Carvalho&fontAlign=50&fontAlignY=40&color=0:0D1117,100:1F6FEB&fontColor=FFFFFF&fontSize=42&desc=Back-End%20Developer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20APIs&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Thiago%20Carvalho&fontAlign=50&fontAlignY=38&color=0:0D1117,100:E63946&fontColor=FFFFFF&fontSize=46&desc=Back-End%20Developer%20•%20Java%20%7C%20Spring%20Boot%20%7C%20APIs&descAlignY=58"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+applications;Focused+on+Back-End+Development;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+applications;Focused+on+Back-End+Development;Always+learning+new+technologies"/>
 
 </div>
 
@@ -15,14 +18,14 @@
 <div align="center">
 
 <a href="https://github.com/tayssobrt">
-<img src="https://img.shields.io/github/followers/tayssobrt?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/tayssobrt?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
 </a>
 
 <a href="https://github.com/tayssobrt?tab=repositories">
-<img src="https://img.shields.io/github/stars/tayssobrt?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/tayssobrt?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=tayssobrt&style=for-the-badge&color=1F6FEB&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=tayssobrt&style=for-the-badge&color=E63946&labelColor=0D1117"/>
 
 </div>
 
@@ -36,9 +39,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayssobrt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayssobrt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayssobrt&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayssobrt&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -46,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tayssobrt&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com?user=tayssobrt&theme=tokyonight&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"/>
 
 </div>
 
@@ -60,7 +63,7 @@
 
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/github/58A6FF" width="24"/> Main Stack
+# <img src="https://cdn.simpleicons.org/github/E63946" width="24"/> Main Stack
 
 <br>
 
@@ -130,7 +133,7 @@
 
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/intellijidea/58A6FF" width="24"/> Development Environment
+# <img src="https://cdn.simpleicons.org/intellijidea/E63946" width="24"/> Development Environment
 
 <br>
 
@@ -188,7 +191,7 @@
 
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/gitbook/58A6FF" width="24"/> Exploring Next
+# <img src="https://cdn.simpleicons.org/gitbook/E63946" width="24"/> Exploring Next
 
 <br>
 
@@ -256,17 +259,9 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a4b9f-7b35-45d4-bf0d-7ee711c0edb7.gif" width="900"/>
-
-</div>
-
-<div align="center">
-
-# 🐍 Contribution Snake
+# <img src="https://cdn.simpleicons.org/git/E63946" width="24"/> Contribution Graph
 
 <img src="https://raw.githubusercontent.com/tayssobrt/tayssobrt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -282,6 +277,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F6FEB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:E63946"/>
 
 </div>
