@@ -84,18 +84,6 @@
 
 <td align="center" width="190px">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="65px"/>
-
-### Node.js
-
-`Express`  
-`JWT Authentication`  
-`Backend Services`
-
-</td>
-
-<td align="center" width="190px">
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="65px"/>
 
 ### Databases
