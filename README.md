@@ -179,7 +179,7 @@
 
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/gitbook/E63946" width="24"/> Exploring Next
+# <img src="https://cdn.simpleicons.org/gitbook/E63946" width="24"/> Exploring
 
 <br>
 
@@ -212,13 +212,13 @@
 
 <td align="center" width="190px">
 
-<img src="https://skillicons.dev/icons?i=kotlin" width="65px"/>
+<img src="https://skillicons.dev/icons?i=php" width="65px"/>
 
-### Kotlin
+### PHP
 
-`Android`  
-`Modern JVM`  
-`Clean Code`
+`WEB SERVER SIDE`  
+`REST APIS`  
+`DATABASE INTEGRATION`
 
 </td>
 
