@@ -17,15 +17,15 @@
 
 <div align="center">
 
-<a href="https://github.com/tayssobrt">
-<img src="https://img.shields.io/github/followers/tayssobrt?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
+<a href="https://github.com/thiagocarvdev">
+<img src="https://img.shields.io/github/followers/thiagocarvdev?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
 </a>
 
-<a href="https://github.com/tayssobrt?tab=repositories">
-<img src="https://img.shields.io/github/stars/tayssobrt?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
+<a href="https://github.com/thiagocarvdev?tab=repositories">
+<img src="https://img.shields.io/github/stars/thiagocarvdev?style=for-the-badge&logo=github&color=E63946&labelColor=0D1117"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=tayssobrt&style=for-the-badge&color=E63946&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=thiagocarvdev&style=for-the-badge&color=E63946&labelColor=0D1117"/>
 
 </div>
 
@@ -39,9 +39,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayssobrt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagocarvdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayssobrt&layout=donut&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvdev&layout=donut&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tayssobrt&theme=tokyonight&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"/>
+<img src="https://streak-stats.demolab.com?user=thiagocarvdev&theme=tokyonight&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"/>
 
 </div>
 
@@ -251,7 +251,7 @@
 
 # <img src="https://cdn.simpleicons.org/git/E63946" width="24"/> Contribution Graph
 
-<img src="https://raw.githubusercontent.com/tayssobrt/tayssobrt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thiagocarvdev/thiagocarvdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
