@@ -41,17 +41,11 @@
 
 <div align="center">
 
-# <img src="https://cdn.simpleicons.org/githubactions/00B4D8" width="24"/> GitHub Metrics
-
 <br>
 
 <img src="https://raw.githubusercontent.com/Thiagocarvdev/Thiagocarvdev/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
-
-<br>
-
-<br>
 
 <div align="center">
 
