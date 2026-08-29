@@ -45,7 +45,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Thiagicardev/Thiagicardev/main/github-metrics.svg" alt="GitHub Metrics"/>
+<img src="https://raw.githubusercontent.com/Thiagocarvdev/Thiagocardev/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
