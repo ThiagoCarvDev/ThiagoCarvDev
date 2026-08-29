@@ -1,28 +1,27 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # roda todo dia à meia-noite UTC
-  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+    - cron: "0 0 * * *"   # roda 1x por dia (meia-noite UTC)
+  workflow_dispatch:        # permite rodar manualmente também
   push:
-    branches: ["main"]
+    branches:
+      - main
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment:
-      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          filename: github-metrics.svg
+          
+          # plugins que você quiser habilitar
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_habits: yes
           plugin_isocalendar: yes
+          
+          config_timezone: America/Recife
