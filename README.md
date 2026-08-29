@@ -37,13 +37,19 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagocarvdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+# <img src="https://cdn.simpleicons.org/githubactions/00B4D8" width="24"/> GitHub Metrics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocarvdev&layout=donut&theme=tokyonight&hide_border=true"/>
+<br>
+
+<img src="https://raw.githubusercontent.com/Thiagicardev/Thiagicardev/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
+
+<br>
 
 <br>
 
